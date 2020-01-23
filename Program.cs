@@ -10,7 +10,8 @@ namespace My_Github_Learning_Project
             Console.WriteLine("Hello World!");
             Console.WriteLine("HEY YOU GUYS");
             Console.WriteLine("is water wet?");
-            Console.WriteLine("if the earth is so big why wont it fight me?");
+            Console.WriteLine("if the universe is so big why wont it fight me?");
+            Console.ReadKey(true);
         }
     }
 }
